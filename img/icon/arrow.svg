@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="24" viewBox="0 0 16 24">
+  <g id="그룹_4" data-name="그룹 4" transform="translate(-1366 -528)">
+    <path id="Icon_ionic-ios-arrow-back" data-name="Icon ionic-ios-arrow-back" d="M13.662,18.191l5.295-9.074a2.644,2.644,0,0,0,0-2.422.751.751,0,0,0-1.416,0l-6,10.281a2.666,2.666,0,0,0-.029,2.365l6.024,10.353a.751.751,0,0,0,1.416,0,2.644,2.644,0,0,0,0-2.422Z" transform="translate(1393.251 558.194) rotate(180)" fill="rgba(0,0,0,0.8)"/>
+    <path id="Icon_ionic-ios-arrow-back-2" data-name="Icon ionic-ios-arrow-back" d="M13.662,18.191l5.295-9.074a2.644,2.644,0,0,0,0-2.422.751.751,0,0,0-1.416,0l-6,10.281a2.666,2.666,0,0,0-.029,2.365l6.024,10.353a.751.751,0,0,0,1.416,0,2.644,2.644,0,0,0,0-2.422Z" transform="translate(1385.251 558.194) rotate(180)" fill="rgba(0,0,0,0.6)"/>
+  </g>
+</svg>
